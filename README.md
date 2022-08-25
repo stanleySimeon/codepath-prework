@@ -1,10 +1,10 @@
-e-work - *Name of App Here*
+e-work - *msTip*
 
-**Name of your app** is a tip calculator application for iOS.
+**msTip** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Stanley SIMEON**
 
-Time spent: **X** hours spent in total
+Time spent: **1h** hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+< ![kap](https://user-images.githubusercontent.com/91237525/186682448-aac5cf3c-b50d-45ba-9eaf-fd6773c0a8be.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -51,5 +51,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-![kap](https://user-images.githubusercontent.com/91237525/186682448-aac5cf3c-b50d-45ba-9eaf-fd6773c0a8be.gif)

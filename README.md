@@ -28,9 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-< ![kap](https://user-images.githubusercontent.com/91237525/186682448-aac5cf3c-b50d-45ba-9eaf-fd6773c0a8be.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+< ![kap](https://user-images.githubusercontent.com/91237525/186682448-aac5cf3c-b50d-45ba-9eaf-fd6773c0a8be.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
@@ -38,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [Stanley SIMEON]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
